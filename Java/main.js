@@ -58,12 +58,12 @@ alert(frutas[1].Nome); */
 // Aula 3 - Condicionais, laços de Repeitção e Date
 
 // Condiçional IF ELSE / PROMPT
-
+alert("Olá Bonitão.. fala pra mim...");
 var idade = prompt("Qual é a sua idade?")
 if (idade > 18) {
-    alert("Maior de idade");
+    alert("Você é Maior de idade(18anos) e se passar no VEstibular da UNB pode pedir uma carro para seu Pai!");
 }else {
-    alert("Menor de Idade!")
+    alert("Você é Menor de Idade(18anos) e ainda precisa escutar muiiiiito o seu Pai chato.. :) I love you, my Son!")
 }
 
 //LAÇOS DE REPETIÇÃO WHILE 
@@ -90,12 +90,17 @@ for(conta=0; conta <=5; conta++){
 
 
 var data = new Date();
+alert("Data Completa (data):");
 alert(data);
+alert("Mes (data.getMonth):");
 alert(data.getMonth(0));
+alert("Minutos (data.getMinutes):");
 alert(data.getMinutes());
+alert("Date (data.getDate):");
 alert(data.getDate());
+alert("hora (data.getHours):");
 alert(data.getHours());
-alert(data.getUTCDate());
+
 
 
 
