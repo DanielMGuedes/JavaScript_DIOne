@@ -88,7 +88,7 @@ for(conta=0; conta <=5; conta++){
 */
 // date
 
-/*
+
 var data = new Date();
 alert(data);
 alert(data.getMonth(0));
@@ -96,6 +96,6 @@ alert(data.getMinutes());
 alert(data.getDate());
 alert(data.getHours());
 alert(data.getUTCDate());
-*/
+
 
 
