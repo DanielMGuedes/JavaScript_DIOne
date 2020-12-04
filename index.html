@@ -6,13 +6,22 @@
         <script type="Text/javascript" src="Java/main.js"></script>
         <link rel="stylesheet" href="estilos/style.css">
     </head>
-    <body>
+    <body onload="load()">
         <h1> Daniel's Página com Java Script  </h1>
         <button type="button" onclick="clicou()">Clique Aqui</button>
-        
         <p> id="agradecimento onclick="redirecionar()"</p>
+        <p> onmouseover="trocar(this)" onmouseout="voltar(this)"> Passe o Mouse Aqui_1</p>
+        <p> onmouseover="trocar(this)" onmouseout="voltar(this)"> Passe o Mouse Aqui_2</p>
+        <p> onmouseover="trocar(this)" onmouseout="voltar(this)"> Passe o Mouse Aqui_3</p>
+        
+        <select onchange="funcaoChange(this)"> 
+            <option value = "1"> onchange-teste1 </option>
+            <option value = "2"> onchange-teste2 </option>
+            <option value = "3"> onchange-teste3 </option>
+        </select>
+                
 
-        <p> P/ Erick_Mendes... Incorporar estilos css e Desenvolver Site com JavaScript e css com Daniel_Mendes....</p>
+        <h1> P/ Erick_Mendes... Incorporar estilos css e Desenvolver Site com JavaScript e css com Daniel_Mendes....</h1>
 
 
     </body>
