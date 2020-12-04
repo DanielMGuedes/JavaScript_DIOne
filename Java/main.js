@@ -88,7 +88,7 @@ for(conta=0; conta <=5; conta++){
 */
 // date
 
-
+/*
 var data = new Date();
 alert("Data Completa (data):");
 alert(data);
@@ -100,7 +100,30 @@ alert("Date (data.getDate):");
 alert(data.getDate());
 alert("hora (data.getHours):");
 alert(data.getHours());
+*/
 
+// Criando Funções:
+
+function soma(n1,n2) {
+    return n1 + n2;
+}
+
+var validar = 0;
+
+function validaidade(idade) {
+    var validar;
+    if (idade >= 18) {
+        validar = true
+    }else{
+        validar = false
+    }
+    return validar;
+}
+
+var idade = prompt ("Qual a sua Idade (v2)");
+validaidade(idade)
+console.log(validar);
+    
 
 
 
