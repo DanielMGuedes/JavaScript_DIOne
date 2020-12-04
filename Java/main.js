@@ -104,6 +104,7 @@ alert(data.getHours());
 
 // Criando Funções:
 
+/*
 function soma(n1,n2) {
     return n1 + n2;
 }
@@ -122,8 +123,33 @@ function validaidade(idade) {
 
 var idade = prompt ("Qual a sua Idade (v2)");
 validaidade(idade)
-console.log(validar);
-    
+console.log(validar); 
+*/
 
+function clicou(){
+    document.getElementById("agradecimento").innerHTML = "<b> Obrigado por clicar</br>";
+    alert("obrigado por Clicar");
+}
+
+function redirecionar() {
+    window.open("https://globallabs.academy/");
+    window.location.href = "https://globallabs.academy/";
+}
+
+function trocar(elemento) {
+    document.getElementById("mousemove").innerHTML = "Obrigado por passr o mouse";
+    elemento.innerHTML = "Obrigado por passar o mouse 2";
+    alert ("Trocar texto");
+}
+
+function voltar(elemento) {
+    document.getElementById("mousemove").innerHTML = "Passe o mouse Aqui!";
+    elemento.innerHTML = "Passe o mouse aqui";
+    alert ("Trocar texto");
+}
+
+function load() {
+    alert ("Pagina carregada");
+}
 
 
