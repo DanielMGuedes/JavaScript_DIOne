@@ -13,7 +13,9 @@
  Os dois projetos serão desenvolvidos em conjunot. 
  O objetivo é incluir outras intereações com JavaScript, Entender melhor a construção do HTML e trabalhar também com o CSS.
  
- Desenvoldio por DanielMGuedes e ErickCMendes
+ Desenvoldio por DanielMGuedes e ErickCMendes..
+ 
+ Vamos desenvolver esse projeto nas férias....
 
  
  
