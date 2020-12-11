@@ -88,7 +88,7 @@ for(conta=0; conta <=5; conta++){
 */
 // date
 
-/*
+
 var data = new Date();
 alert("Data Completa (data):");
 alert(data);
@@ -100,7 +100,7 @@ alert("Date (data.getDate):");
 alert(data.getDate());
 alert("hora (data.getHours):");
 alert(data.getHours());
-*/
+
 
 // Criando Funções:
 
