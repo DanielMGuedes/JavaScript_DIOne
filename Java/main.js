@@ -58,7 +58,7 @@ alert(frutas[1].Nome); */
 // Aula 3 - Condicionais, laços de Repeitção e Date
 
 // Condiçional IF ELSE / PROMPT
-alert("Olá Bonitão.. fala pra mim...");
+alert("Olá Bonitão.. fala pra mim......");
 var idade = prompt("Qual é a sua idade?")
 if (idade > 18) {
     alert("Você é Maior de idade(18anos) e se passar no VEstibular da UNB pode pedir uma carro para seu Pai!");
