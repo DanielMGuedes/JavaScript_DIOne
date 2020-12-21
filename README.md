@@ -1,4 +1,4 @@
-# JavaScript_DIOne
+_Exercícios em javaScript JavaScript_
  
  
  # **GITHUB PAGES**
