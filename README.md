@@ -15,7 +15,7 @@ _Exercícios em javaScript JavaScript_
  
  Desenvoldio por DanielMGuedes e ErickCMendes..
  
- Vamos desenvolver esse projeto nas férias....
+ Vamos desenvolver esse projeto nas férias.... hoje já é dia 14/01 e nada
 
  
  
